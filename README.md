@@ -10,7 +10,7 @@
 
 ## Стек технологий
 
-- Python 3.14.6
+- Python 3.14.7
 - FastAPI
 - PostgreSQL
 - Docker
