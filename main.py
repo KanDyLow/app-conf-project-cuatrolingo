@@ -10,7 +10,7 @@ app = FastAPI(
 @app.get("/")
 async def root():
     """Root endpoint."""
-    return {"message": "Hello World"}
+    return {"message": "Hello, Welcome to Russia"}
 
 
 @app.get("/health")
